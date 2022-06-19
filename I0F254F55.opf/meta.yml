@@ -1,0 +1,37 @@
+id: I0F254F55
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:39:43.642997'
+last_modified: '2022-06-19T10:39:43.643009'
+parser: null
+source_metadata:
+  title: History of the bKa gdams School by Lo dgon pa bSod nams lhai dbang po (1423–1496)
+  author: bsod nams lhai dbang po/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-21); revised by inputter, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  - Editorial process:blo bzang rgyal mtshan/
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:blo bzang rgyal mtshan/
+  text_witnesses: https://sakyaresearch.org/sources/2111
+  bases:
+    1e2f:
+      title: History of the bKa gdams School by Lo dgon pa bSod nams lhai dbang po
+        (1423–1496)
+      order: 1
+      base_file: 1e2f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
